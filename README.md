@@ -5,7 +5,7 @@
 <br />
 <div align="center" id='topo'>
   <a href="">
-    <img src="/imgLogo.png" alt="Logo" width="200" height="350">
+    <img src="/imgLogo.png" alt="Logo" width="400" height="450">
   </a>
 
   <h3 align="center">Studio Tattoo</h3>
