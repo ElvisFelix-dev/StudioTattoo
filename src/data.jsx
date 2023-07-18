@@ -111,7 +111,7 @@ export const testimonialData = [
   {
     quoteImg: QuoteImg,
     message:
-      'Encontrei a InkZone por indicação de um amigo e não me arrependo! Fiz minha primeira tatuagem com eles e fiquei impressionado com a qualidade do trabalho e a higiene do estúdio. O tatuador foi muito cuidadoso e experiente. Com certeza voltarei para fazer mais tatuagens!',
+      'Encontrei a InkZone por indicação de um amigo e não me arrependo! Fiz minha primeira tatuagem com eles e fiquei impressionada com a qualidade do trabalho e a higiene do estúdio. O tatuador foi muito cuidadoso. Com certeza voltarei para fazer mais tatuagens!',
     name: 'Ana',
     occupation: 'Dentista',
   },
