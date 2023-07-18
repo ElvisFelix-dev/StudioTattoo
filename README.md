@@ -56,11 +56,11 @@
 
 1. Clonar o repo
    ```sh
-   git clone https://github.com/ElvisFelix-dev/barbershop
+   git clone https://github.com/ElvisFelix-dev/StudioTattoo
    ```
 2. Abra a pasta
    ```sh
-   cd barbershop
+   cd StudioTattoo
 
 3. Instalando NPM packages
    ```sh
