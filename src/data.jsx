@@ -140,7 +140,7 @@ export const contactData = {
         'Nosso estúdio em Matão, um espaço criado para expressar sua personalidade e história por meio de tatuagens únicas e marcantes.',
       address: {
         icon: <FaMapMarkerAlt />,
-        name: 'Centro - Rua 15 de Novmbro 154',
+        name: 'Centro - Rua 15 de Novembro 154',
       },
       phone: {
         icon: <FaPhoneAlt />,
@@ -171,7 +171,7 @@ export const footerData = {
       'Nossa equipe está pronta para criar tatuagens incríveis e significativas que vão além das expectativas.',
     address: {
       icon: <FaMapMarkerAlt />,
-      name: 'Centro - Rua 15 de Novmbro 154, Matão',
+      name: 'Centro - Rua 15 de Novembro 154, Matão',
     },
     phone: {
       icon: <FaPhoneAlt />,
