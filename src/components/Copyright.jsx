@@ -16,8 +16,8 @@ export default function Copyright() {
           className="tracking-[0.02em] text-base"
         >
           &copy; 2023
-          <span className="font-semibold text-white"> 2System.</span> Todo
-          direito reservado.
+          <span className="font-semibold text-white"> 2System.</span> Todos os 
+          direitos reservado.
         </motion.div>
       </div>
     </div>
