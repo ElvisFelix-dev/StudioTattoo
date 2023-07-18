@@ -5,7 +5,7 @@
 <br />
 <div align="center" id='topo'>
   <a href="">
-    <img src="src/assets/logo.svg" alt="Logo" width="200" height="350">
+    <img src="/imgLogo.png" alt="Logo" width="200" height="350">
   </a>
 
   <h3 align="center">Studio Tattoo</h3>
@@ -23,7 +23,7 @@
 <div align="center">
   <img src="PC.png" alt="Logo" width="873" height="501"><br />
   <br />
-  <img src="mobile.png" alt="Logo" width="280" height="567"> 
+  <img src="mobile.png" alt="Logo" width="280" height="567">
 </div>
 <br />
 
@@ -31,7 +31,7 @@
 <br />
 
 - Modelo de uma landing-page para Studio de Tattoo
-- Cliente pode mandar mensagem para o studio  
+- Cliente pode mandar mensagem para o studio
 
 <p align="right">(<a href="#topo">Para o topo</a>)</p>
 
@@ -40,7 +40,7 @@
 ### Desenvolvido com :
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-- Tailwindcss 
+- Tailwindcss
 - React Image Gallery
 - EmailJS
 - Toast
